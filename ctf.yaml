@@ -1,9 +1,9 @@
 general:
   ctf:
-    name: {{ .Env.CTF_NAME }}
+    name: Swedish-Cybersecurity-Challenge-2025
     description: |-
-      {{ .Env.CTF_DESCRIPTION }}
+      Swedish Cybersecurity Challenge 2025 will be held as a jeopardy Capture The Flag competition. The competition focuses on problem solving in the areas of programming, cryptography, binary exploitation, reverse engineering, web security and other miscellaneous tasks. The tasks range from easy to really tricky, so even if you've never participated in a CTF before, you can take part. Above all, you will learn a lot from participating.
     urls:
-      - {{ .Env.CTF_URL }}
+      - https://ctf.snht.se/
     repo:
-      URL: {{ .Env.REPO_URL }}
+      URL: git@github.com:arch-err/Swedish-Cybersecurity-Challenge-2025.git
