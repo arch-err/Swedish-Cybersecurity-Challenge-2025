@@ -7,3 +7,29 @@ general:
       - https://ctf.snht.se/
     repo:
       URL: git@github.com:arch-err/Swedish-Cybersecurity-Challenge-2025.git
+challenges:
+  - name: JinjaNinja
+  - name: b64_2TP
+  - name: Ciggen
+  - name: Ciggen_2
+  - name: secRet_SignAtures
+  - name: flag.py
+  - name: Sanity_(rizz)_check
+  - name: A-a-a_Wond-wonderful_Ke-kebab
+  - name: Dropped_flag
+  - name: picklepicklejail
+  - name: MinionCoin
+  - name: Rizz_oriented_programming
+  - name: Use_after_snake
+  - name: Heap_of_Sort
+  - name: pelinux
+  - name: ClickMe
+  - name: PySafe
+  - name: Knäckebröd
+  - name: WNACALC
+  - name: Macrohard
+  - name: RizzClicker
+  - name: JinjaNinja
+  - name: MinionDB
+  - name: Unknown
+  - name: Unknown_2
