@@ -8,4 +8,4 @@
 
 
 ## Flag
-**Flag:** `<++>`
+**Flag:** `SNHT{d0nt_sm0k3_k1ds}`
