@@ -13,20 +13,20 @@
 **Team:** None
 
 
-**Flags:** (2/24)
+**Flags:** (4/24)
 
 ![ ](assets/scoreboard.png)
 ![ ](assets/team-score.png)
 
 
 # Challenges
-- [] [b64_2TP](challenges/b64_2TP)
+- [ ] [b64_2TP](challenges/b64_2TP)
 - [ ] [Ciggen](challenges/Ciggen)
 - [ ] [Ciggen_2](challenges/Ciggen_2)
 - [ ] [secRet_SignAtures](challenges/secRet_SignAtures)
 - [ ] [flag.py](challenges/flag.py)
 - [x] [Sanity_(rizz)_check](challenges/Sanity_(rizz)_check)
-- [ ] [A-a-a_Wond-wonderful_Ke-kebab](challenges/A-a-a_Wond-wonderful_Ke-kebab)
+- [x] [A-a-a_Wond-wonderful_Ke-kebab](challenges/A-a-a_Wond-wonderful_Ke-kebab)
 - [ ] [Dropped_flag](challenges/Dropped_flag)
 - [ ] [picklepicklejail](challenges/picklepicklejail)
 - [ ] [MinionCoin](challenges/MinionCoin)
@@ -34,7 +34,7 @@
 - [ ] [Use_after_snake](challenges/Use_after_snake)
 - [ ] [Heap_of_Sort](challenges/Heap_of_Sort)
 - [ ] [pelinux](challenges/pelinux)
-- [ ] [ClickMe](challenges/ClickMe)
+- [x] [ClickMe](challenges/ClickMe)
 - [ ] [PySafe](challenges/PySafe)
 - [ ] [Knäckebröd](challenges/Knäckebröd)
 - [ ] [WNACALC](challenges/WNACALC)
