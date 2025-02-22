@@ -13,7 +13,7 @@
 **Team:** None
 
 
-**Flags:** (4/24)
+**Flags:** (5/24)
 
 ![ ](assets/scoreboard.png)
 ![ ](assets/team-score.png)
@@ -21,7 +21,7 @@
 
 # Challenges
 - [ ] [b64_2TP](challenges/b64_2TP)
-- [ ] [Ciggen](challenges/Ciggen)
+- [x] [Ciggen](challenges/Ciggen)
 - [ ] [Ciggen_2](challenges/Ciggen_2)
 - [ ] [secRet_SignAtures](challenges/secRet_SignAtures)
 - [ ] [flag.py](challenges/flag.py)
@@ -39,7 +39,7 @@
 - [ ] [Knäckebröd](challenges/Knäckebröd)
 - [ ] [WNACALC](challenges/WNACALC)
 - [ ] [Macrohard](challenges/Macrohard)
-- [ ] [RizzClicker](challenges/RizzClicker)
+- [x] [RizzClicker](challenges/RizzClicker)
 - [ ] [JinjaNinja](challenges/JinjaNinja)
 - [ ] [MinionDB](challenges/MinionDB)
 - [ ] [Unknown](challenges/Unknown)
