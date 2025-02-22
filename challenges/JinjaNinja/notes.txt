@@ -1,0 +1,35 @@
+{
+    "give_me_flag": true
+}
+
+<script>alert('pwned')</script>
+
+{
+    "variable_start_string": "{",
+    "variable_end_string": "}",
+    "block_start_string": "{}",
+    "block_end_string": "-",
+    "comment_start_string": "-",
+    "comment_end_string": "-",
+    "autoescape": false
+}
+
+{
+    "variable_start_string": "hej",
+    "variable_end_string": "hej",
+    "block_start_string": "hej",
+    "block_end_string": "hej",
+    "comment_start_string": "hej",
+    "comment_end_string": "hej",
+    "autoescape": false
+}
+
+
+
+
+# Links
+
+https://blog.1nf1n1ty.team/hacktricks/pentesting-web/ssti-server-side-template-injection/jinja2-ssti
+https://book.hacktricks.wiki/en/pentesting-web/ssti-server-side-template-injection/jinja2-ssti.html
+https://jinja.palletsprojects.com/en/stable/
+https://jinja.palletsprojects.com/en/stable/api/#jinja2.Environment
